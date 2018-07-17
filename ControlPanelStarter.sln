@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlPanelStarter", "ControlPanelStarter\ControlPanelStarter.csproj", "{903AEBF0-2F45-42EA-9F4A-2B686BDCD456}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ControlPanelStarterSetup", "ControlPanelStarterSetup\ControlPanelStarterSetup.vdproj", "{FAC3BB2A-17E9-42E7-8A96-DE34BC28787D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903AEBF0-2F45-42EA-9F4A-2B686BDCD456}.Debug|x86.ActiveCfg = Debug|x86
+		{903AEBF0-2F45-42EA-9F4A-2B686BDCD456}.Debug|x86.Build.0 = Debug|x86
+		{903AEBF0-2F45-42EA-9F4A-2B686BDCD456}.Release|x86.ActiveCfg = Release|x86
+		{903AEBF0-2F45-42EA-9F4A-2B686BDCD456}.Release|x86.Build.0 = Release|x86
+		{FAC3BB2A-17E9-42E7-8A96-DE34BC28787D}.Debug|x86.ActiveCfg = Debug
+		{FAC3BB2A-17E9-42E7-8A96-DE34BC28787D}.Release|x86.ActiveCfg = Release
+		{FAC3BB2A-17E9-42E7-8A96-DE34BC28787D}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
